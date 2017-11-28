@@ -1,0 +1,53 @@
+fieldset{
+    box-shadow: 10px 10px 10px #888888;
+    background-color: #f5f5f0;
+    width: 70%;
+    margin: auto auto;
+}
+
+fieldset legend{
+    border-style: none;
+    font-size: 15pt;
+    background-color: rgba(0,0,0,0.3);
+}
+
+fieldset label {
+    margin-left: 5px;
+    margin-right: 5px;
+    text-align: right;
+}
+
+fieldset label.right-align{
+    display: inline-block;
+    width: 120px;
+}
+
+input[type="range"]{
+    width: 180px;
+    margin-top: 6px;
+}
+
+input[type="text"]{
+    width: 50%;
+}
+
+li{
+    position: relative;
+    float:left;
+    width: 30%;
+    list-style:none;
+}
+
+img.contact-img{
+    width: 20px;
+    height: 20px;
+}
+
+.range-labels{
+    position: absolute;
+    float:left;
+    margin: 0px 0px;
+    width: 275px;
+    padding: 0;
+    list-style: none;
+}

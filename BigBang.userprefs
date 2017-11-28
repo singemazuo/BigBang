@@ -1,0 +1,20 @@
+﻿<Properties StartupConfiguration="{9B14BECC-A805-4D98-88E0-D0214BCD8EAF}|">
+  <MonoDevelop.Ide.ItemProperties.BigBang PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="BigBang/sheldon.html">
+    <Files>
+      <File FileName="BigBang/contact.html" Line="7" Column="48" />
+      <File FileName="BigBang/howard.html" Line="6" Column="34" />
+      <File FileName="BigBang/index.html" Line="6" Column="34" />
+      <File FileName="BigBang/leonard.html" Line="6" Column="34" />
+      <File FileName="BigBang/penny.html" Line="6" Column="34" />
+      <File FileName="BigBang/rajesh.html" Line="6" Column="34" />
+      <File FileName="BigBang/sheldon.html" Line="6" Column="34" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>

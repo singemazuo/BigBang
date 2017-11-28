@@ -1,0 +1,5 @@
+/Users/singemazuo/project/nbcc/teamworks/BigBang/BigBang/bin/BigBang.dll
+/Users/singemazuo/project/nbcc/teamworks/BigBang/BigBang/bin/BigBang.pdb
+/Users/singemazuo/project/nbcc/teamworks/BigBang/BigBang/obj/Debug/BigBang.csproj.CoreCompileInputs.cache
+/Users/singemazuo/project/nbcc/teamworks/BigBang/BigBang/obj/Debug/BigBang.dll
+/Users/singemazuo/project/nbcc/teamworks/BigBang/BigBang/obj/Debug/BigBang.pdb

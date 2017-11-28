@@ -1,0 +1,110 @@
+
+input[type=text]{
+  border-radius:4px;
+}
+
+body {
+    background: linear-gradient(green, yellow);
+    font-family: Verdana, sans-serif;
+    color:#fff;
+}
+
+main {
+    width: 80%;
+    height:1800px;
+    border: thin solid black;
+    margin: auto;
+    padding: 3%;
+    font-family: Verdana, sans-serif;
+    color: #000;
+    background-color: antiquewhite;
+}
+
+h1{
+    text-align:center;
+    letter-spacing:.5em;
+}
+
+.common-img {
+    border: thick solid black;
+    border-radius: 25px;
+    padding-bottom: 1%;
+    padding-top: 1%;
+    background: linear-gradient(green, yellow);
+}
+
+header{
+    text-align: center;
+}
+
+nav{
+    text-align: center;
+}
+
+fieldset {
+    margin:auto;
+    width:40%;
+    box-shadow: 10px 10px 5px #888;
+}
+
+ol {
+    font-size:1.2em;
+    font-weight:bold;
+}
+
+legend {
+    font-size: 1.75em;
+    border: thin solid black;
+    padding: 1%;
+    box-shadow: 3px 3px 3px #888;
+    font-weight: bold;
+}
+
+#castDiv {
+    padding-bottom:3%;
+}
+
+#FunFactDiv {
+    margin: auto;
+    float: left;
+    width: 45%;
+    border: thin solid black;
+    padding: 2%;
+    height: 800px;
+    border-radius: 25px
+}
+
+#fact {
+    padding:1.5%;
+}
+
+#QuoteDiv {
+    margin: auto;
+    float: right;
+    width: 45%;
+    border: thin solid black;
+    padding: 2%;
+    height: 800px;
+    border-radius: 25px
+}
+
+#FootDiv {
+    text-align:center;
+    float:left;
+    margin:0 0 0 30%;
+    padding: 3%;
+}
+
+a:link {
+    color: darkslategrey;
+}
+
+a:hover {
+    background-color: #4cff00;
+}
+
+a:visited {
+    color: darkslategrey;
+}
+
+
